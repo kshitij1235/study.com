@@ -1,4 +1,4 @@
-# StudyBuddy
+# Study.com
 </div>
 
 ### Cloning the repository
